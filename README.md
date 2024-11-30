@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sai kumar Pasupuleti
-- 👀 I’m interested in Machine Learing and Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning Models  
-- 💞️ I’m looking to collaborate on Data Science and related stuff.
+- 👀 I’m interested in building Full Stack Web Applications using Spring boot and React.
+- 🌱 I’m currently learning other front_end Framewroks
 - 📫 How to reach me   Email: saikumarpasupuleti497@gmail.com
 
 <!---
