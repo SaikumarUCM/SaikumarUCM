@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sai kumar Pasupuleti
-- 🦢 Actively Involved in building java microservices.
-- 👀 I’m interested in building Full Stack Web Applications using Spring boot and React.
-- 🌱 I’m currently learning other front_end Framewroks
+- 👀 I’m interested in building Full Stack Web Applications with microservices architecture.
+- 🌱 I’m currently learning other front_end Frameworks
 - 📫 How to reach me   Email: sxp78850@ucmo.edu
 
 <!---
