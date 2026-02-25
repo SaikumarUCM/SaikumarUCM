@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai kumar Pasupuleti
 - 👀 I’m interested in building Full Stack Web Applications with microservices architecture.
-- 🌱 Currently Learning buildiing AI Agnets and automation flows using AI.
+- 🌱 Currently Learning building AI Agnets and automation flows using AI.
 - 📫 How to reach me   Email: saikumar140820@gmail.com
 
 <!---
