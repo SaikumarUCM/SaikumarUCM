@@ -5,8 +5,6 @@ My work spans GenAI and LLM applications including RAG systems, prompt engineeri
 
 Technically, I work extensively with Python, SQL, PyTorch, TensorFlow, and modern AI stacks such as LangChain, Hugging Face, OpenAI APIs, and FastAPI. On the infrastructure side, I’ve deployed solutions using Docker, Kubernetes, MLflow, and cloud platforms including AWS, Azure, and GCP, while supporting data pipelines with Spark, Kafka, and Snowflake.
 
-Previously, I led analytics and ML initiatives in cross-functional environments, delivering ETL automation, BI dashboards, and predictive models that improved productivity, campaign ROI, and customer retention. I enjoy collaborating with stakeholders, translating ambiguous problems into clear solutions, and building systems that scale beyond prototypes.
-
 I’m currently focused on Generative AI, LLM-powered applications, and applied ML engineering roles where I can build impactful, real-world AI products.
 
 Always open to connecting with fellow engineers and industry professionals to explore opportunities and work on forward-thinking engineering challenges.
