@@ -12,3 +12,29 @@
 2. [Customer Support Agnet](https://github.com/SaikumarUCM/Customer_Support_Agent)
 3. 
 
+
+
+
+## What I Do
+
+I specialize in architecting and deploying **production-grade AI systems** that scale. My expertise spans:
+
+- **RAG Systems**: Retrieval-Augmented Generation with 95%+ accuracy
+- **LLM Fine-tuning & Optimization**: LoRA, QLoRA, PEFT techniques
+- **MCP & Agent Development**: Model Context Protocol, A2A protocols, LLM workFlows, Multi-agent workflows.
+- **Voice AI Systems**: Speech-to-speech, STT/TTS pipelines
+- **RAG Systems**: Retrieval-Augmented Generation with 95%+ accuracy
+- **Cloud-Native AI**: AWS, Azure, Kubernetes, Docker deployments
+
+
+
+##  Let's Connect!
+
+I'm always interested in **collaborating on innovative AI projects** and **discussing the latest in Generative AI technology**. Feel free to reach out!
+
+- **LinkedIn**: [saikumar-pasupuleti](https://www.linkedin.com/in/saikumarpas/)
+- **GitHub**: [saikumar](https://github.com/SaikumarUCM)
+
+---
+
+*"Building the future of AI, one model at a time."* 🚀 
