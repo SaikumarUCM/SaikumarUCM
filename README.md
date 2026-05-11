@@ -10,7 +10,7 @@
 ## Projects : 
 1. [Agentic RAG ChatBot ](https://github.com/SaikumarUCM/Agentic-RAG-ChatBot)
 2. [Customer Support Agent](https://github.com/SaikumarUCM/Customer_Support_Agent)
-3. 
+3. [Data Analyst Agent](https://github.com/SaikumarUCM/DataAnalyst-Agent)
 
 
 
