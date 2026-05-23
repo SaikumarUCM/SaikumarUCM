@@ -22,7 +22,8 @@ I am a skilled AI/ML Engineer specializing in Generative AI, Data Science, and M
   ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 - **AI/ML Engineering:** 
-  ![MLOps](https://img.shields.io/badge/MLOps-4CAF50?style=flat-square&logo=gnuplot) 
+  ![MLOps](https://img.shields.io/badge/MLOps-4CAF50?style=flat-square&logo=gnuplot)
+  ![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-5E5ADB?style=flat-square&logo=microsoft&logoColor=white)
   ![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-FF9900?style=flat-square&logo=amazon-aws) 
   ![SageMaker](https://img.shields.io/badge/Amazon-SageMaker-FF9900?style=flat-square&logo=amazon-aws) 
   ![OpenAI](https://img.shields.io/badge/OpenAI-343434?style=flat-square&logo=openai) 
