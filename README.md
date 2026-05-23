@@ -29,8 +29,10 @@ I am a skilled AI/ML Engineer specializing in Generative AI, Data Science, and M
   ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic) 
   ![Llama](https://img.shields.io/badge/Llama-5C4B8B?style=flat-square&logo=python&logoColor=white)
 
-- **Cloud Platforms:** 
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+- **Cloud Platforms:**
+  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+  
 
 - **Tools & Frameworks:** 
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
