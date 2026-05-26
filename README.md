@@ -53,6 +53,8 @@ I am a skilled AI/ML Engineer specializing in Generative AI, Data Science, and M
 1. [Agentic RAG ChatBot ](https://github.com/SaikumarUCM/Agentic-RAG-ChatBot)
 2. [Customer Support Agent](https://github.com/SaikumarUCM/Customer_Support_Agent)
 3. [Data Analyst Agent](https://github.com/SaikumarUCM/DataAnalyst-Agent)
+4. [Pneumonia-Prediction-App](https://github.com/SaikumarUCM/Pneumonia-Prediction-App)
+5. [React_SupaBase_Application](https://github.com/SaikumarUCM/React_SupaBase_Application)
 
 
 
