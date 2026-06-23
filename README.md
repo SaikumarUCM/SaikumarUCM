@@ -4,7 +4,7 @@
 
 ## **Introduction:**
 
-I am a skilled AI/ML Engineer specializing in Generative AI, Data Science, and Machine Learning. With expertise in MLOps and MicroSoft Foundry, I develop intelligent solutions that drive innovation and efficiency. Passionate about leveraging data-driven insights and emerging technologies, I collaborate with cross-functional teams to solve complex problems.
+I am a skilled AI/ML Engineer specializing in Generative AI, Data Science, and Machine Learning. With expertise in MLOps and AWS, I develop intelligent solutions that drive innovation and efficiency. Passionate about leveraging data-driven insights and emerging technologies, I collaborate with cross-functional teams to solve complex problems.
 
 ---
 
